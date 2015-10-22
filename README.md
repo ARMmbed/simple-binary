@@ -2,8 +2,7 @@
 
 This is an example of how to create a simple binary [yotta](http://yottadocs.mbed.com) module for [mbed OS](https://mbed/com).
 
-** NOTE: yotta modules are normally distributed as source code, to maximise
-compatibility across platforms. Binary modules lose some of these advantages. **
+**NOTE: yotta modules are normally distributed as source code, to maximise compatibility across platforms. Binary modules lose some of these advantages.**
 
 ## Structure of This Module
 
