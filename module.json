@@ -1,0 +1,18 @@
+{
+  "name": "simple-binary",
+  "version": "1.0.0",
+  "description": "Example of a simple binary module.",
+  "keywords": [
+    "binary",
+    "module",
+    "logging"
+  ],
+  "author": "James Crosby <james.crosby@arm.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/simple-binary.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/simple-binary",
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
