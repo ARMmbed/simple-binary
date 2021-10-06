@@ -1,3 +1,7 @@
+## Deprecation note!
+
+**Please note: This repository is deprecated and it is no longer actively maintained**.
+
 # simple-binary
 
 This is an example of how to create a simple binary [yotta](http://yottadocs.mbed.com) module for [mbed OS](https://mbed/com).
